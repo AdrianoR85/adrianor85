@@ -2,6 +2,7 @@
   <h1>Adriano Rosa</h1> 
 </div>
 
+
 <br>
 <br>
 
@@ -23,7 +24,8 @@ Meu primeiro contato com programação e foi em 2008, quando fazia curso de Téc
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...!
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
