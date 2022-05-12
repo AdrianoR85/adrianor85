@@ -8,7 +8,7 @@
 ## Hi there!
 
 tenho 37 anos, sou de Joinville/SC, sou formado em Técnico em Logística e atualmente trabalho em uma empresa de tubos e conexões, aonde exerço a funcão de Operador Logistico. 
-Meu primeiro contato com programação e foi em 2008, quando fazia curso de Técnico em Informática, porém não chegui a concluir o curso. Depois disso, parti para a área de Logística, mas a vontade de programar nunca saiu de mim, até que em 2021, não muito contente com minha profissão, decidi a começar estudar programação e tentar entrar na área. E hoje aqui estou!!!
+Meu primeiro contato com programação e foi em 2008, quando fazia curso de Técnico em Informática, porém não chegui a concluir o curso. Depois disso, parti para a área de Logística, mas a vontade de programar nunca saiu de mim, até que em 2021, não muito contente com minha profissão, decidi a começar estudar programação e tentar entrar na área.
 
 
 ## Estatisticas
