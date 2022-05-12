@@ -1,9 +1,16 @@
-<div>
-  <h1>Adriano Rosa</h1> 
-</div>
+# Adriano Rosa
 tenho 37 anos, sou de Joinville/SC, sou formado em Técnico em Logística e atualmente trabalho em uma empresa de tubos e conexões, aonde exerço a funcão de Operador Logistico. 
 Meu primeiro contato com programação e foi em 2008, quando fazia curso de Técnico em Informática, porém não chegui a concluir o curso. Depois disso, parti para a área de Logística, mas a vontade de programar nunca saiu de mim, até que em 2021, não muito contente com minha profissão, decidi a começar estudar programação e tentar entrar na área.
 
+## Rede Sociais
+<div display="inline-block"> 
+  <a href="https://www.instagram.com/adriano.rosa85/">
+    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+  </a> 
+  <a href="https://www.linkedin.com/in/adriano-rosa-741979182/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
+</div>
 
 ## Estatisticas
 <div>
