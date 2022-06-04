@@ -1,3 +1,4 @@
+<img align="center" alt="adrianor85-msqlserver"  src="https://komarev.com/ghpvc/?username=adrianor85&style=flat-square">
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Adriano Rosa
