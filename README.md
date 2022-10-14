@@ -1,10 +1,9 @@
 <img align="center" alt="adrianor85-msqlserver"  src="https://komarev.com/ghpvc/?username=adrianor85&style=flat-square">
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
-# Adriano Rosa
-Sou de Joinville/SC, sou formado em Técnico em Logística e atualmente trabalho em uma empresa de tubos e conexões, aonde exerço a funcão de Operador Logistico. 
-Meu primeiro contato com programação e foi em 2008, quando fazia curso de Técnico em Informática, porém não chegui a concluir o curso. Depois disso, parti para a área de Logística, mas a vontade de programar nunca saiu de mim, até que em 2021, não muito contente com minha profissão, decidi começar a estudar programação e tentar entrar na área.
-
+# Olá, sou o Adriano Rosa
+Sou formado em técnico em Logística, área que trabalho atualmente, e estudante de TI.
+Hoje estou em processo de mudança de carreira. Meu primeiro contato com programação e foi em 2008, quando fazia curso de Técnico em Informática, porém não chegui a concluir o curso. Depois disso, parti para a área de Logística, mas a vontade de programar nunca saiu de mim. Então decidi começar a estudar programação novamente.
 <br>
 <br>
                   
@@ -21,9 +20,10 @@ Meu primeiro contato com programação e foi em 2008, quando fazia curso de Téc
 ## Estudando:
 <div display="inline-block">
   <div>
-  <p align="left">Javascript full stack na <a href="https://programador.onebitcode.space/">OneBitCode</a></p>
-  <p align="left">C# iniciante na <a href="https://www.udemy.com/course/csharp-para-iniciantes/">Udemy</a></p>
-  <p align="left">C# front end na <a href="https://www.udemy.com/course/desenvolvimento-front-end-com-csharp/">Udemy</a></p>
+  <p align="left">🔸Javascript full stack - <a href="https://programador.onebitcode.space/">OneBitCode</a></p>
+  <p align="left">🔸C# iniciante - <a href="https://www.udemy.com/course/csharp-para-iniciantes/">Udemy</a></p>
+  <p align="left">🔸C# front end - <a href="https://www.udemy.com/course/desenvolvimento-front-end-com-csharp/">Udemy</a></p>
+  <p align="left">🔸Inglês - <a href="https://englishinbrazil.com.br/">English in Brazil</a></p>
   <div>
     
 <br>
