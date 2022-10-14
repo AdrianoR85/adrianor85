@@ -15,10 +15,17 @@ Meu primeiro contato com programação e foi em 2008, quando fazia curso de Téc
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 
+<br>
+<br>
+
+## Estudando:
 <div display="inline-block">
- <p align="left">📚 Estou estudando HTML, CSS e JavaScript pela <a href="https://www.alura.com.br/">Alura</a></p>
-  <p align="left">🌐 Curso de Administrador de Redes pela <a href="https://www.alura.com.br/">Alura</a></p>
-  
+  <div>
+  <p align="left">Javascript full stack na <a href="https://programador.onebitcode.space/">OneBitCode</a></p>
+  <p align="left">C# iniciante na <a href="#">Udemy</a></p>
+  <p align="left">C# front end na <a href="https://www.udemy.com/course/desenvolvimento-front-end-com-csharp/">Udemy</a></p>
+  <div>
+    
 <br>
 <br>
   
