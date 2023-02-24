@@ -22,10 +22,9 @@ I have a certification in Logistic, an area in which I have worked for 6 years a
 ## Studying:
 <div display="inline-block">
   <div>
-  <p align="left">🔸The Complete JavaScript Course - <a href="https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/22648409#overview">Udemy</a></p>
-  <p align="left">🔸Javascript moderno - <a href="https://lp.devsamurai.com.br/wue3c2p5/?xpromo=st-devsamurai"> Dev Samurai</a></p>
-  <p align="left">🔸HTML and CSS - <a href="https://www.w3schools.com/">W3School</a></p>
-  <p align="left">🔸Inglês - <a href="https://englishinbrazil.com.br/">English in Brazil</a></p>
+  <p align="left">🔸Javascript
+  <p align="left">🔸HTML and CSS
+  <p align="left">🔸Inglês
   <div>
 <br>
 <br>
