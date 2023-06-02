@@ -13,7 +13,8 @@ I am a self-taught student of web development. I have knowledge in HTML, CSS, an
  <div>
  Site: <a href="https://adrianorosa.netlify.app/" target="_blank"> adrianorosa.netlify.app </a> 
  </div>
- 
+ <br>
+ <br>
                   
 ##  Tools and Technologies:
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
