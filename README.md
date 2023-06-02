@@ -11,7 +11,7 @@ I am a self-taught student of web development. I have knowledge in HTML, CSS, an
  <br>
  <br>
  <div>
-   Site: https://adrianorosa.netlify.app/#about
+ Site: <a href="https://adrianorosa.netlify.app/" target="_blank"> adrianorosa.netlify.app </a> 
  </div>
  
                   
