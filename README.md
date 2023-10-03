@@ -2,12 +2,12 @@
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Hi, I'm Adriano Rosa
-I am a self-taught student of web development. I have knowledge in HTML, CSS, and JavaScript, and I am currently learning React. Although I do not have professional experience in the field, I am an enthusiastic learner. I have been dedicating time and effort to participate in courses, aiming to enhance my technical expertise.
+I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript, and I am currently learning React. Although I do not have professional experience in the field, I am an enthusiastic learner. I have been dedicating time and effort to participate in courses, aiming to enhance my technical expertise.
 <br>
 <br>
 
 <hr>
- Sou estudante, autodidata, de desenvolvimento web. Possuo conhecimento em HTML, CSS e JavaScript, e atualmente estou aprendendo React. Embora eu não tenha experiência profissional na área, sou um aprendiz entusiasmado. Tenho dedicado tempo e esforço para participar de cursos, visando aprimorar minha expertise técnica.
+ Sou estudante, autodidata em TI. Possuo conhecimento em HTML, CSS e JavaScript, e atualmente estou aprendendo React. Embora eu não tenha experiência profissional na área, sou um aprendiz entusiasmado. Tenho dedicado tempo e esforço para participar de cursos, visando aprimorar minha expertise técnica.
  <br>
  <br>
  <div>
@@ -23,6 +23,7 @@ I am a self-taught student of web development. I have knowledge in HTML, CSS, an
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 
 <br>
 <br>
@@ -31,7 +32,8 @@ I am a self-taught student of web development. I have knowledge in HTML, CSS, an
 <div display="inline-block">
   <div>
   <p align="left">🔸Javascript
-  <p align="left">🔸HTML and CSS
+  <p align="left">🔸Power BI
+  <p align="left">🔸Python
   <p align="left">🔸React
   <p align="left">🔸Inglês
   </div>
