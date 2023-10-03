@@ -2,12 +2,12 @@
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Hi, I'm Adriano Rosa
-I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript, and I am currently learning React. Although I do not have professional experience in the field, I am an enthusiastic learner. I have been dedicating time and effort to participate in courses, aiming to enhance my technical expertise.
+I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript. Although I do not have professional experience in the field, I am an enthusiastic learner. I have been dedicating time and effort to participate in courses, aiming to enhance my technical expertise.
 <br>
 <br>
 
 <hr>
- Sou estudante, autodidata em TI. Possuo conhecimento em HTML, CSS e JavaScript, e atualmente estou aprendendo React. Embora eu não tenha experiência profissional na área, sou um aprendiz entusiasmado. Tenho dedicado tempo e esforço para participar de cursos, visando aprimorar minha expertise técnica.
+ Sou estudante, autodidata em TI. Possuo conhecimento em HTML, CSS e JavaScript. Embora eu não tenha experiência profissional na área, sou um aprendiz entusiasmado. Tenho dedicado tempo e esforço para participar de cursos, visando aprimorar minha expertise técnica.
  <br>
  <br>
  <div>
