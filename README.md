@@ -2,16 +2,16 @@
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Hi, I'm Adriano Rosa
-I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript. Although I do not have professional experience in the field, I am an enthusiastic learner. I have been dedicating time and effort to participate in courses, aiming to enhance my technical expertise.
+I am a student of systems analysis and development with experience in logistics and production, seeking internship opportunities to apply and expand my knowledge in IT. With over 5 years of experience in the dispatch area, I highlight my active contribution to the development of activity standards for receiving and return processes, including the creation and implementation of customized spreadsheets for operations optimization.
 <br>
 <br>
 
 <hr>
- Sou estudante, autodidata em TI. Possuo conhecimento em HTML, CSS e JavaScript. Embora eu não tenha experiência profissional na área, sou um aprendiz entusiasmado. Tenho dedicado tempo e esforço para participar de cursos, visando aprimorar minha expertise técnica.
+ Estudante de Análise e Desenvolvimento de Sistemas com experiência em logística e produção, buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em TI. Com mais de 5 anos de experiência na área de expedição, destaco minha contribuição ativa no desenvolvimento de padrões de atividades para os processos de recebimento e devolução, incluindo a criação e implementação de planilhas personalizadas para otimização das operações. 
  <br>
  <br>
  <div>
- Site: <a href="https://adrianorosa.netlify.app/" target="_blank"> adrianorosa.netlify.app </a> 
+ Portfolio: <a href="https://adrianorosa.netlify.app/" target="_blank"> adrianorosa.netlify.app </a> 
  </div>
  <br>
  <br>
@@ -24,6 +24,7 @@ I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript.
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
+<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code>
 
 <br>
 <br>
@@ -31,8 +32,8 @@ I am a self-taught student in IT. I have knowledge in HTML, CSS, and JavaScript.
 ## Studying:
 <div display="inline-block">
   <div>
-  <p align="left">🔸Javascript
-  <p align="left">🔸Power BI
+  <p align="left">🔸RESTful Node
+  <p align="left">🔸SQL
   <p align="left">🔸Python
   <p align="left">🔸React
   <p align="left">🔸Inglês
