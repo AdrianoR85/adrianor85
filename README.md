@@ -2,7 +2,7 @@
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Hi, I'm Adriano Rosa
-I am a student of systems analysis and development with experience in logistics and production, seeking internship opportunities to apply and expand my knowledge in IT. With over 5 years of experience in the dispatch area, I highlight my active contribution to the development of activity standards for receiving and return processes, including the creation and implementation of customized spreadsheets for operations optimization.
+I am a student of systems analysis and development with experience in logistics and production, seeking internship opportunities to apply and expand my knowledge in IT. With over 5 years of experience in the shipment area, I highlight my active contribution to the development of activity standards for receiving and return processes, including the creation and implementation of customized spreadsheets for operations optimization.
 <br>
 <br>
 
