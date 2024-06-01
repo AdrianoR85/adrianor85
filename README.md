@@ -11,7 +11,7 @@ I am a student of systems analysis and development with experience in logistics 
  <br>
  <br>
  <div>
- Portfolio: <a href="https://adrianorosa.netlify.app/" target="_blank"> adrianorosa.netlify.app </a> 
+ Portfolio: <a href="https://adrianorosa085.netlify.app/" target="_blank"> adrianorosa085.netlify.app </a> 
  </div>
  <br>
  <br>
@@ -35,7 +35,6 @@ I am a student of systems analysis and development with experience in logistics 
 ## Studying:
 <div display="inline-block">
   <div>
-  <p align="left">🔸RESTful Node
   <p align="left">🔸SQL
   <p align="left">🔸Python
   <p align="left">🔸React
