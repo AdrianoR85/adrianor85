@@ -35,7 +35,8 @@ I am a student of systems analysis and development with experience in logistics 
 ## Studying:
 <div display="inline-block">
   <div>
-  <p align="left">🔸SQL
+  <p align="left">🔸BI with SQL server
+  <p align="left">🔸SQL Database Specialist
   <p align="left">🔸Python
   <p align="left">🔸React
   <p align="left">🔸Inglês
