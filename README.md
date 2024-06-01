@@ -2,19 +2,16 @@
 <img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
 
 # Hi, I'm Adriano Rosa
-I am a student of systems analysis and development with experience in logistics and production, seeking internship opportunities to apply and expand my knowledge in IT. With over 5 years of experience in the shipment area, I highlight my active contribution to the development of activity standards for receiving and return processes, including the creation and implementation of customized spreadsheets for operations optimization.
-<br>
-<br>
+<p>I'm a student of Technologist in System Analysis and Development, and I'm also independently studying the field of data</p>
+<p>This Github page is where I'm sharing my beginner journey in the tech world. Here, you can see the courses I'm taking and the projects I'm working on to improve. I'm excited to show you what I'm learning.</p>
+<p>Feel free to check out my stuff and let me know what you think. I'm always happy to learn and work with others who love tech too!</p>
 
-<hr>
- Estudante de Análise e Desenvolvimento de Sistemas com experiência em logística e produção, buscando oportunidades de estágio para aplicar e expandir meus conhecimentos em TI. Com mais de 5 anos de experiência na área de expedição, destaco minha contribuição ativa no desenvolvimento de padrões de atividades para os processos de recebimento e devolução, incluindo a criação e implementação de planilhas personalizadas para otimização das operações. 
- <br>
- <br>
- <div>
- Portfolio: <a href="https://adrianorosa085.netlify.app/" target="_blank"> adrianorosa085.netlify.app </a> 
- </div>
- <br>
- <br>
+<br>
+<div>
+Portfolio: <a href="https://adrianorosa085.netlify.app/" target="_blank"> adrianorosa085.netlify.app </a> 
+</div>
+<br>
+<br>
                   
 ##  Tools and Technologies:
 <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
