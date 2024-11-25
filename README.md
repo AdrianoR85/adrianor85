@@ -1,45 +1,28 @@
-<img align="center" alt="adrianor85-msqlserver"  src="https://komarev.com/ghpvc/?username=adrianor85&style=flat-square">
-<img align="right" width="200px" style="margin-top: -20px" src="https://i.ibb.co/7Kkwy2v/my-Cartoon-removebg-preview.png">
+# 👋 Hi there! I'm Adriano Rosa
 
-# Hi, I'm Adriano Rosa
-<p>I'm a student of Technologist in System Analysis and Development, and I'm also independently studying the field of data</p>
-<p>This Github page is where I'm sharing my beginner journey in the tech world. Here, you can see the courses I'm taking and the projects I'm working on to improve. I'm excited to show you what I'm learning.</p>
-<p>Feel free to check out my stuff and let me know what you think. I'm always happy to learn and work with others who love tech too!</p>
+I’m a Systems Analysis and Development student with a strong foundation in programming and web development. I enjoy solving problems and creating efficient solutions using various technologies.
 
-<br>
-<div>
-Portfolio: <a href="https://adrianorosa085.netlify.app/" target="_blank"> adrianorosa085.netlify.app </a> 
-</div>
-<br>
-<br>
-                  
-##  Tools and Technologies:
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MySQL"/></code> 
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" title = "SQL"/></code>
-<img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCode"/></code>
+## 🌱 Skills
 
+- **Programming Languages**: Python, SQL, Javascript
+- **Web Development**: React
+- **Tools & Technologies**: Git, Flask, RESTful APIs, Power BI
+- **Databases**: MySQL, PostgreSQL
 
-<br>
-<br>
+## 💼 Projects
 
-## Studying:
-<div display="inline-block">
-  <div>
-  <p align="left">🔸BI with SQL server
-  <p align="left">🔸SQL Database Specialist
-  <p align="left">🔸Python
-  <p align="left">🔸React
-  <p align="left">🔸Inglês
-  </div>
-<br>
-<br>
+Here are some of the projects I've worked on:
+
+- Memory Game ([Link](https://pokememory00.netlify.app/)) - His Pokémon-themed memory game challenges players to match pairs of Pokémon cards.
+- Kanban Board ([Link](https://kanban-board-kb.netlify.app/) - This Kanban board allows users to add and delete asks, providing an intuitive way to track progress through different stages of a project.
+
+## 📫 Connect with Me
+
+- LinkedIn ([adriano-rosa](https://www.linkedin.com/in/adriano-rosa-741979182/))
+- Twitter ([@AdrianoR1985](https://x.com/AdrianoR1985))
+- Email (adrianorosa085@gmail.com)
+
+Feel free to reach out if you want to collaborate or just chat about tech!
   
  ## Contacts:
  <div display="inline-block"> 
